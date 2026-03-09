@@ -69,3 +69,8 @@ Read them in order — each topic builds on the previous ones.
 | `34_embed/` | //go:embed, embed.FS, serving static files, migrations |
 | `35_slog/` | log/slog, levels, JSON/text handlers, slog.With, custom handler |
 | `36_interview_concepts/` | GMP scheduler, string internals, interface internals, all gotchas |
+
+## Practical Examples (37)
+| Directory | Topics |
+|-----------|--------|
+| `37_user_profile_settings/` | Struct design, functional options for updates, validation, change tracking, JSON persistence |
